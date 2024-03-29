@@ -8,7 +8,7 @@ A digital world clock with a simple & sleek design
 
 - Simple
 - Alarm functionality
-- Contains timezone information as well
+- Shows timezone information as well
 
 
 
